@@ -28,3 +28,26 @@ performance optimization using SQL and Power BI.
 ## 🧾 Summary
 This project demonstrates end-to-end data analysis including data extraction,
 transformation, visualization, and business insight development.
+
+## 🚀 How to Reproduce This Project
+
+1. **Clone the repository**
+```bash
+git clone https://github.com/mihirpatel24/inventory-optimization-project.git
+
+2. **Import the dataset**
+   - Open MySQL  
+   - Create the database and table structure  
+   - Load the CSV file from the `data/` folder into the database  
+
+3. **Run the SQL analysis**
+   - Execute the queries in `sql/inventory_analysis.sql` to generate key insights and metrics  
+
+4. **Open the Power BI dashboard**
+   - Open `dashboard/inventory_optimization_dashboard.pbix` in Power BI Desktop  
+   - Refresh the data connection to pull data from MySQL  
+
+5. **Explore the insights**
+   - Use the interactive filters to analyze results by **region**, **category**, and **seasonality**  
+   - Review KPIs, trends, and risk indicators  
+
