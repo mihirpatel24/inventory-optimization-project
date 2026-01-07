@@ -33,7 +33,7 @@ transformation, visualization, and business insight development.
 
 1. **Clone the repository**
 
-   -git clone https://github.com/mihirpatel24/inventory-optimization-project.git
+  - git clone https://github.com/mihirpatel24/inventory-optimization-project.git
 
 
 
