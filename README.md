@@ -17,7 +17,7 @@ performance optimization using SQL and Power BI.
 - Highlighted material forecast error indicating need for improved planning.
 
 ## 📈 Dashboard Preview
-![Dashboard](images/dashboard_preview.png)
+![Dashboard](images/Dashboard_Preview.png)
 
 ## 📁 Repository Structure
 - `data/` — Raw and cleaned datasets
@@ -34,20 +34,26 @@ transformation, visualization, and business insight development.
 1. **Clone the repository**
 ```bash
 git clone https://github.com/mihirpatel24/inventory-optimization-project.git
+Import the dataset
 
-2. **Import the dataset**
-   - Open MySQL  
-   - Create the database and table structure  
-   - Load the CSV file from the `data/` folder into the database  
+Open MySQL
 
-3. **Run the SQL analysis**
-   - Execute the queries in `sql/inventory_analysis.sql` to generate key insights and metrics  
+Create the database and table structure
 
-4. **Open the Power BI dashboard**
-   - Open `dashboard/inventory_optimization_dashboard.pbix` in Power BI Desktop  
-   - Refresh the data connection to pull data from MySQL  
+Load the CSV file from the data/ folder into the database
 
-5. **Explore the insights**
-   - Use the interactive filters to analyze results by **region**, **category**, and **seasonality**  
-   - Review KPIs, trends, and risk indicators  
+Run the SQL analysis
 
+Execute the queries in sql/inventory_analysis.sql to generate key insights and metrics
+
+Open the Power BI dashboard
+
+Open dashboard/inventory_optimization_dashboard.pbix in Power BI Desktop
+
+Refresh the data connection to pull data from MySQL
+
+Explore the insights
+
+Use the interactive filters to analyze results by region, category, and seasonality
+
+Review KPIs, trends, and risk indicators
