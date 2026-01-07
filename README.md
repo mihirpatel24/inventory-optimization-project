@@ -35,6 +35,7 @@ transformation, visualization, and business insight development.
 ```bash
 git clone https://github.com/mihirpatel24/inventory-optimization-project.git
 Import the dataset
+```markdown
 
 2. **Import the dataset**
    - Open MySQL  
