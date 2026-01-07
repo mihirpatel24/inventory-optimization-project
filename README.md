@@ -32,7 +32,7 @@ transformation, visualization, and business insight development.
 ## 🚀 How to Reproduce This Project
 
 1. **Clone the repository**
-bash
+```bash
 git clone https://github.com/mihirpatel24/inventory-optimization-project.git
 Import the dataset
 
@@ -51,4 +51,4 @@ Import the dataset
 
 5. **Explore the insights**
    - Use the interactive filters to analyze results by **region**, **category**, and **seasonality**  
-   - Review KPIs, trends, and risk indicators  
+   - Review KPIs, trends, and risk indicators  ```
