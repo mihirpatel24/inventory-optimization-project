@@ -33,8 +33,8 @@ transformation, visualization, and business insight development.
 
 1. **Clone the repository**
 
-git clone https://github.com/mihirpatel24/inventory-optimization-project.git
-Import the dataset
+   -git clone https://github.com/mihirpatel24/inventory-optimization-project.git
+
 
 
 2. **Import the dataset**
