@@ -30,9 +30,9 @@ This project demonstrates end-to-end data analysis including data extraction,
 transformation, visualization, and business insight development.
 ```
 ## 🚀 How to Reproduce This Project
-```
+
 1. **Clone the repository**
-```bash
+bash
 git clone https://github.com/mihirpatel24/inventory-optimization-project.git
 Import the dataset
 
