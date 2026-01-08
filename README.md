@@ -46,9 +46,9 @@ transformation, visualization, and business insight development.
    - Execute the queries in `sql/inventory_analysis.sql` to generate key insights and metrics  
 
 4. **Open the Power BI dashboard**
-   - Open `dashboard/inventory_optimization_dashboard.pbix` in Power BI Desktop  
+   - Open `dashboard/inventory_dashboard.pbix` in Power BI Desktop  
    - Refresh the data connection to pull data from MySQL  
 
 5. **Explore the insights**
    - Use the interactive filters to analyze results by **region**, **category**, and **seasonality**  
-   - Review KPIs, trends, and risk indicators  ```
+   - Review KPIs, trends, and risk indicators
